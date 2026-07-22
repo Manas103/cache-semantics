@@ -1,0 +1,178 @@
+{
+  "control": [
+    {
+      "cached": 0,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    }
+  ],
+  "tool1": [
+    {
+      "cached": 0,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    }
+  ],
+  "tool8": [
+    {
+      "cached": 1020,
+      "total": 7694
+    },
+    {
+      "cached": 1020,
+      "total": 7694
+    },
+    {
+      "cached": 0,
+      "total": 7694
+    },
+    {
+      "cached": 1020,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    }
+  ],
+  "tool16": [
+    {
+      "cached": 2041,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    }
+  ],
+  "tool24": [
+    {
+      "cached": 3061,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    },
+    {
+      "cached": 3061,
+      "total": 7694
+    },
+    {
+      "cached": 3061,
+      "total": 7694
+    }
+  ],
+  "tool32": [
+    {
+      "cached": 0,
+      "total": 7694
+    },
+    {
+      "cached": 1020,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    },
+    {
+      "cached": 5102,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    }
+  ],
+  "tool40": [
+    {
+      "cached": 6123,
+      "total": 7694
+    },
+    {
+      "cached": 6123,
+      "total": 7694
+    },
+    {
+      "cached": 6123,
+      "total": 7694
+    },
+    {
+      "cached": 0,
+      "total": 7694
+    },
+    {
+      "cached": 6123,
+      "total": 7694
+    }
+  ],
+  "tool45": [
+    {
+      "cached": 6123,
+      "total": 7694
+    },
+    {
+      "cached": 6123,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    },
+    {
+      "cached": 6123,
+      "total": 7694
+    },
+    {
+      "cached": 7143,
+      "total": 7694
+    }
+  ]
+}

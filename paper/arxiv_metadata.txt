@@ -1,0 +1,67 @@
+========================================================================
+ arXiv SUBMISSION METADATA  —  cache-semantics (Paper 4)
+ Copy each block below into the matching field on the arXiv form.
+ Fields marked "LEAVE BLANK" should be left empty.
+========================================================================
+
+
+------------------------------------------------------------------------
+TITLE
+------------------------------------------------------------------------
+How Much of Your Prompt Survives an Edit? A Cross-Provider Measurement of Prompt-Cache Invalidation Granularity
+
+
+------------------------------------------------------------------------
+AUTHOR(S)
+------------------------------------------------------------------------
+Manas Vudugula
+
+
+------------------------------------------------------------------------
+ABSTRACT   (1,887 chars — fits arXiv's 1,920 limit)
+------------------------------------------------------------------------
+Prompt caching is now load-bearing for cost and latency in agentic LLM applications, which routinely resend large, mostly-static tool and system prefixes on every turn. Providers document that caching exists, but not precisely how invalidation is scoped: does one edit anywhere in a prefix wipe the whole cache, or does partial credit survive? We answer this directly, reading each provider's own usage telemetry rather than relying on the timing side-channels used by prior work, measuring how many tokens of a shared prefix survive a single controlled edit across Anthropic, OpenAI, DeepSeek, and Gemini. We find four qualitatively different regimes. Anthropic's granularity is entirely developer-controlled: one cache_control block is atomic, while splitting a static prefix from a variable tail gives perfect partial credit. OpenAI and DeepSeek both cache in deterministic fixed-size chunks (1024 and 128 tokens respectively); on a second, structurally different prefix, OpenAI's chunk boundaries turn out to be content-anchored rather than fixed-address. Gemini's realized cache credit is not a stable function of request content at all: an isolated, byte-identical, repeated request returns different credited-token counts across trials. Documented posture does not predict measured reliability: DeepSeek's docs hedge caching as best-effort while OpenAI's do not, yet DeepSeek is the most deterministic provider measured and Gemini, with no comparable hedge, is the least. A length-changing-edit check finds no evidence of content-defined, rolling-hash-style resync; every provider behaves as simple prefix continuity predicts, yielding concrete guidance: append new content rather than inserting it mid-prefix. Prompt caching is not one mechanism but at least four reliability contracts, and cost or latency estimates that assume one provider generalizes to another will be wrong.
+
+
+------------------------------------------------------------------------
+COMMENTS
+------------------------------------------------------------------------
+14 pages, 2 figures, 9 tables
+
+
+------------------------------------------------------------------------
+REPORT NUMBER
+------------------------------------------------------------------------
+LEAVE BLANK
+
+
+------------------------------------------------------------------------
+JOURNAL REFERENCE
+------------------------------------------------------------------------
+LEAVE BLANK
+
+
+------------------------------------------------------------------------
+EXTERNAL DOI
+------------------------------------------------------------------------
+LEAVE BLANK
+
+
+------------------------------------------------------------------------
+ACM CLASS  (optional — enter this or leave blank)
+------------------------------------------------------------------------
+C.2.4; D.4.2
+
+
+------------------------------------------------------------------------
+MSC CLASS
+------------------------------------------------------------------------
+LEAVE BLANK
+
+
+========================================================================
+CATEGORIES (set on the categories step, not a text box)
+------------------------------------------------------------------------
+Primary:     cs.DC
+Cross-list:  cs.CL   (and cs.PF if you want the extra systems/performance visibility)
+========================================================================

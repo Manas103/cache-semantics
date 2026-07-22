@@ -1,0 +1,76 @@
+{
+  "openrouter/anthropic-haiku": {
+    "cold": {
+      "prompt_tokens": 7782,
+      "completion_tokens": 4,
+      "total_tokens": 7786,
+      "cost": 0.0008171,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 7761,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0008171,
+        "upstream_inference_prompt_cost": 0.0007971,
+        "upstream_inference_completions_cost": 2e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "warm": {
+      "prompt_tokens": 7782,
+      "completion_tokens": 4,
+      "total_tokens": 7786,
+      "cost": 0.0008171,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 7761,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0008171,
+        "upstream_inference_prompt_cost": 0.0007971,
+        "upstream_inference_completions_cost": 2e-05
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    }
+  },
+  "direct/anthropic-haiku": {
+    "cold": {
+      "input_tokens": 21,
+      "cache_creation_input_tokens": 7761,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 7761,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 4,
+      "service_tier": "standard",
+      "inference_geo": "not_available"
+    },
+    "warm": {
+      "input_tokens": 21,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 7761,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 4,
+      "service_tier": "standard",
+      "inference_geo": "not_available"
+    }
+  }
+}

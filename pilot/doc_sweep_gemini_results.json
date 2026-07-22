@@ -1,0 +1,114 @@
+{
+  "control": [
+    {
+      "cached": 0,
+      "total": 5609
+    },
+    {
+      "cached": 5096,
+      "total": 5609
+    },
+    {
+      "cached": 5096,
+      "total": 5609
+    }
+  ],
+  "section1": [
+    {
+      "cached": 0,
+      "total": 5609
+    },
+    {
+      "cached": 5096,
+      "total": 5609
+    },
+    {
+      "cached": 5096,
+      "total": 5609
+    }
+  ],
+  "section8": [
+    {
+      "cached": 0,
+      "total": 5609
+    },
+    {
+      "cached": 5096,
+      "total": 5609
+    },
+    {
+      "cached": 0,
+      "total": 5609
+    }
+  ],
+  "section16": [
+    {
+      "cached": 1019,
+      "total": 5609
+    },
+    {
+      "cached": 1019,
+      "total": 5609
+    },
+    {
+      "cached": 0,
+      "total": 5609
+    }
+  ],
+  "section24": [
+    {
+      "cached": 0,
+      "total": 5609
+    },
+    {
+      "cached": 0,
+      "total": 5609
+    },
+    {
+      "cached": 2038,
+      "total": 5609
+    }
+  ],
+  "section32": [
+    {
+      "cached": 3057,
+      "total": 5609
+    },
+    {
+      "cached": 5096,
+      "total": 5609
+    },
+    {
+      "cached": 5096,
+      "total": 5609
+    }
+  ],
+  "section40": [
+    {
+      "cached": 4077,
+      "total": 5609
+    },
+    {
+      "cached": 4077,
+      "total": 5609
+    },
+    {
+      "cached": 4077,
+      "total": 5609
+    }
+  ],
+  "section45": [
+    {
+      "cached": 5096,
+      "total": 5609
+    },
+    {
+      "cached": 5096,
+      "total": 5609
+    },
+    {
+      "cached": 5096,
+      "total": 5609
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "i": 0,
+    "cached_tokens": 0,
+    "prompt_tokens": 7694,
+    "pct": 0.0
+  },
+  {
+    "i": 1,
+    "cached_tokens": 7143,
+    "prompt_tokens": 7694,
+    "pct": 92.83857551338706
+  },
+  {
+    "i": 2,
+    "cached_tokens": 7143,
+    "prompt_tokens": 7694,
+    "pct": 92.83857551338706
+  },
+  {
+    "i": 3,
+    "cached_tokens": 7143,
+    "prompt_tokens": 7694,
+    "pct": 92.83857551338706
+  },
+  {
+    "i": 4,
+    "cached_tokens": 7143,
+    "prompt_tokens": 7694,
+    "pct": 92.83857551338706
+  },
+  {
+    "i": 5,
+    "cached_tokens": 7143,
+    "prompt_tokens": 7694,
+    "pct": 92.83857551338706
+  },
+  {
+    "i": 6,
+    "cached_tokens": 7143,
+    "prompt_tokens": 7694,
+    "pct": 92.83857551338706
+  },
+  {
+    "i": 7,
+    "cached_tokens": 7143,
+    "prompt_tokens": 7694,
+    "pct": 92.83857551338706
+  }
+]

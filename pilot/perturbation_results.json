@@ -1,0 +1,46 @@
+{
+  "openai-gpt5mini": {
+    "control": {
+      "cached": 6912,
+      "total": 6973,
+      "pct": 99.12519718915817,
+      "frac_before_diff": 1.0
+    },
+    "edit_header": {
+      "cached": 0,
+      "total": 6973,
+      "pct": 0.0,
+      "frac_before_diff": 0.00032473858543872184
+    },
+    "edit_tool1": {
+      "cached": 0,
+      "total": 6974,
+      "pct": 0.0,
+      "frac_before_diff": 0.011658115217250114
+    },
+    "edit_tool23_mid": {
+      "cached": 2816,
+      "total": 6974,
+      "pct": 40.37854889589905,
+      "frac_before_diff": 0.49493407806715595
+    },
+    "edit_tool45_late": {
+      "cached": 5888,
+      "total": 6974,
+      "pct": 84.42787496415256,
+      "frac_before_diff": 0.9793141521075535
+    },
+    "trailing_whitespace": {
+      "cached": 5888,
+      "total": 6974,
+      "pct": 84.42787496415256,
+      "frac_before_diff": 1.0
+    },
+    "reorder_adjacent_22_23": {
+      "cached": 2816,
+      "total": 6973,
+      "pct": 40.384339595582965,
+      "frac_before_diff": 0.47184516464246284
+    }
+  }
+}

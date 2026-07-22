@@ -1,0 +1,227 @@
+{
+  "1": {
+    "cached": 0,
+    "total": null,
+    "source": "rep0_reuse"
+  },
+  "8": {
+    "cached": 0,
+    "total": null,
+    "source": "rep0_reuse"
+  },
+  "16": {
+    "cached": 1152,
+    "total": null,
+    "source": "rep0_reuse"
+  },
+  "24": {
+    "cached": 2304,
+    "total": null,
+    "source": "rep0_reuse"
+  },
+  "32": {
+    "cached": 3584,
+    "total": null,
+    "source": "rep0_reuse"
+  },
+  "40": {
+    "cached": 4864,
+    "total": null,
+    "source": "rep0_reuse"
+  },
+  "45": {
+    "cached": 6016,
+    "total": null,
+    "source": "rep0_reuse"
+  },
+  "2": {
+    "cached": 0,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "3": {
+    "cached": 0,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "4": {
+    "cached": 384,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "5": {
+    "cached": 512,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "6": {
+    "cached": 640,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "7": {
+    "cached": 768,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "9": {
+    "cached": 1152,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "10": {
+    "cached": 1280,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "11": {
+    "cached": 1408,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "12": {
+    "cached": 1536,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "13": {
+    "cached": 1664,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "14": {
+    "cached": 1920,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "15": {
+    "cached": 2048,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "17": {
+    "cached": 2304,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "18": {
+    "cached": 2432,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "19": {
+    "cached": 2688,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "20": {
+    "cached": 2816,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "21": {
+    "cached": 2944,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "22": {
+    "cached": 3072,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "23": {
+    "cached": 3328,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "25": {
+    "cached": 3584,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "26": {
+    "cached": 3712,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "27": {
+    "cached": 3840,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "28": {
+    "cached": 4096,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "29": {
+    "cached": 4224,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "30": {
+    "cached": 4352,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "31": {
+    "cached": 4480,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "33": {
+    "cached": 4864,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "34": {
+    "cached": 4992,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "35": {
+    "cached": 5120,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "36": {
+    "cached": 5248,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "37": {
+    "cached": 5376,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "38": {
+    "cached": 5632,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "39": {
+    "cached": 5760,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "41": {
+    "cached": 6016,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "42": {
+    "cached": 6272,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "43": {
+    "cached": 6400,
+    "total": 7056,
+    "source": "fresh"
+  },
+  "44": {
+    "cached": 6528,
+    "total": 7056,
+    "source": "fresh"
+  }
+}

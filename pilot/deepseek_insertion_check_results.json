@@ -1,0 +1,9 @@
+{
+  "section": 16,
+  "cached": 1792,
+  "total": 5638,
+  "start_of_section_substitution_reference": 896,
+  "end_of_section_substitution_reference": 1920,
+  "note": "start_of_section_substitution_reference (896) is NOT an apples-to-apples comparison -- it edits the first sentence of section 16, while the insertion appends after the section's full original text, so its divergence point is later. end_of_section_substitution_reference (1920) edits the section's last sentence instead, matching the insertion's actual divergence point. Correct comparison: 1792 (insertion) <= 1920 (end-of-section substitution) -- consistent with pure prefix/LCP-continuity caching, no evidence of downstream resync.",
+  "verdict": "AT/BELOW corrected (end-of-section) substitution reference -- consistent with pure prefix caching, no resync evidence"
+}

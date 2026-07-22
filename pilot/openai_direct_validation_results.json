@@ -1,0 +1,51 @@
+[
+  {
+    "section": 1,
+    "cached": 0,
+    "total": 5587,
+    "openrouter_ref": 0,
+    "match": true
+  },
+  {
+    "section": 8,
+    "cached": 0,
+    "total": 5587,
+    "openrouter_ref": 0,
+    "match": true
+  },
+  {
+    "section": 16,
+    "cached": 1792,
+    "total": 5587,
+    "openrouter_ref": 1792,
+    "match": true
+  },
+  {
+    "section": 24,
+    "cached": 2816,
+    "total": 5587,
+    "openrouter_ref": 2816,
+    "match": true
+  },
+  {
+    "section": 32,
+    "cached": 2816,
+    "total": 5587,
+    "openrouter_ref": 2816,
+    "match": true
+  },
+  {
+    "section": 40,
+    "cached": 3840,
+    "total": 5587,
+    "openrouter_ref": 3840,
+    "match": true
+  },
+  {
+    "section": 45,
+    "cached": 4864,
+    "total": 5587,
+    "openrouter_ref": 4864,
+    "match": true
+  }
+]

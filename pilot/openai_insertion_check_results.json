@@ -1,0 +1,9 @@
+{
+  "section": 16,
+  "cached": 1792,
+  "total": 5602,
+  "start_of_section_substitution_reference": 1792,
+  "end_of_section_substitution_reference": 1792,
+  "note": "Both references match because sections 16-23 form one flat plateau on OpenAI's grain (see doc_full_sweep_openai_results.json) -- edit position within that span doesn't matter, consistent with a coarser (~1024-token) chunk boundary than DeepSeek's.",
+  "verdict": "Exactly matches both references -- consistent with pure prefix caching, no resync evidence"
+}

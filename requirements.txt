@@ -1,0 +1,4 @@
+# The probe scripts themselves (pilot/*.py, except make_figures.py) are pure
+# standard library -- urllib for HTTP, no dependencies.
+# Only needed to regenerate paper/figures/*.pdf:
+matplotlib

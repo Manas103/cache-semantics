@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets — never commit
+.env
+*.key
+
+# LaTeX build byproducts (main.pdf itself is tracked)
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.bbl
+paper/*.blg
+
+# OS cruft
+.DS_Store
+Thumbs.db

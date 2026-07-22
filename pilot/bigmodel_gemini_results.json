@@ -1,0 +1,26 @@
+{
+  "model": "gemini-3.1-pro-preview",
+  "section": 24,
+  "reps": [
+    {
+      "rep": 0,
+      "cached": 0,
+      "total": 5609
+    },
+    {
+      "rep": 1,
+      "cached": 0,
+      "total": 5609
+    },
+    {
+      "rep": 2,
+      "cached": 0,
+      "total": 5609
+    }
+  ],
+  "flash_reference_reps": [
+    0,
+    0,
+    2038
+  ]
+}

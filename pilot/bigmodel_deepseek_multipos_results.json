@@ -1,0 +1,26 @@
+[
+  {
+    "section": 8,
+    "model": "deepseek-reasoner",
+    "cached": 896,
+    "total": 5625,
+    "chat_reference": 0,
+    "delta": 896
+  },
+  {
+    "section": 16,
+    "model": "deepseek-reasoner",
+    "cached": 1792,
+    "total": 5625,
+    "chat_reference": 896,
+    "delta": 896
+  },
+  {
+    "section": 40,
+    "model": "deepseek-reasoner",
+    "cached": 4864,
+    "total": 5625,
+    "chat_reference": 3840,
+    "delta": 1024
+  }
+]

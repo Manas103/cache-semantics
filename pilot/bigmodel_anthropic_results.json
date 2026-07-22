@@ -1,0 +1,33 @@
+{
+  "model": "claude-opus-4-8",
+  "prime": {
+    "input_tokens": 215,
+    "cache_creation_input_tokens": 8374,
+    "cache_read_input_tokens": 0,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 8374,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 7,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "service_tier": "standard",
+    "inference_geo": "global"
+  },
+  "block2_edited": {
+    "input_tokens": 215,
+    "cache_creation_input_tokens": 0,
+    "cache_read_input_tokens": 8374,
+    "cache_creation": {
+      "ephemeral_5m_input_tokens": 0,
+      "ephemeral_1h_input_tokens": 0
+    },
+    "output_tokens": 7,
+    "output_tokens_details": {
+      "thinking_tokens": 0
+    },
+    "service_tier": "standard",
+    "inference_geo": "global"
+  }
+}

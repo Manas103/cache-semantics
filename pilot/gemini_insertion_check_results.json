@@ -1,0 +1,25 @@
+{
+  "section": 16,
+  "reps": [
+    {
+      "rep": 0,
+      "cached": 0,
+      "total": 5622
+    },
+    {
+      "rep": 1,
+      "cached": 5096,
+      "total": 5622
+    },
+    {
+      "rep": 2,
+      "cached": 5096,
+      "total": 5622
+    }
+  ],
+  "substitution_reference_reps": [
+    1019,
+    1019,
+    0
+  ]
+}
