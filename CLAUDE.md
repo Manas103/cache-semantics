@@ -10,9 +10,12 @@ providers (Anthropic, OpenAI, DeepSeek, Gemini): given a primed cache and a sing
 edit to a shared prefix, how many tokens of that prefix still get credited as cached, read
 directly from each provider's own usage telemetry (not a timing side-channel, unlike the closest
 prior art). It ships as a solo arXiv preprint, Paper 4 of Manas's portfolio (after `tzarith`/
-`dst-bench`). **Status: manuscript is drafted and compiles clean; not yet submitted to arXiv**
-(blocked on the same endorsement requirement as `tzarith` — see the `arxiv-endorsement-gate`
-memory entry). No further data collection is planned; remaining work is submission logistics.
+`dst-bench`). **Status: manuscript is drafted, compiles clean, and is ready to submit to arXiv.**
+The endorsement blocker is resolved for cs.CL (endorsement obtained via `tzarith`/`dst-bench` is
+per-account-per-primary-category, not per-paper) -- `arxiv_metadata.txt`'s primary category was
+swapped from cs.DC to cs.CL on 2026-07-23 to reuse it, with cs.DC/cs.PF now cross-list. See the
+`arxiv-endorsement-gate` memory entry for the full mechanics. No further data collection is
+planned; remaining work is submission logistics.
 
 ## Security (hard rule)
 - **Never print the contents of `.env`** (it lives at `../.env` relative to this repo, i.e. the
