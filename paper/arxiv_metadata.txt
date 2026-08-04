@@ -65,7 +65,7 @@ CATEGORIES (set on the categories step, not a text box)
 Primary:     cs.CL   (endorsement already granted via dst-bench; reuse it)
 Cross-list:  cs.DC   (and cs.PF if you want the extra systems/performance visibility)
 ------------------------------------------------------------------------
-NOTE: swapped 2026-07-23. Endorsement is per primary category, not per paper --
+NOTE: swapped 2026-08-04. Endorsement is per primary category, not per paper --
 cs.DC would need its own (unobtained) endorsement if left as primary. Cross-list
 categories don't require endorsement, so cs.DC/cs.PF are safe as secondary tags.
 Before hitting submit, double-check the "Get Status" / endorsement page on your

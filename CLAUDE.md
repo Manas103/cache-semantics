@@ -13,7 +13,7 @@ prior art). It ships as a solo arXiv preprint, Paper 4 of Manas's portfolio (aft
 `dst-bench`). **Status: manuscript is drafted, compiles clean, and is ready to submit to arXiv.**
 The endorsement blocker is resolved for cs.CL (endorsement obtained via `tzarith`/`dst-bench` is
 per-account-per-primary-category, not per-paper) -- `arxiv_metadata.txt`'s primary category was
-swapped from cs.DC to cs.CL on 2026-07-23 to reuse it, with cs.DC/cs.PF now cross-list. See the
+swapped from cs.DC to cs.CL on 2026-08-04 to reuse it, with cs.DC/cs.PF now cross-list. See the
 `arxiv-endorsement-gate` memory entry for the full mechanics. No further data collection is
 planned; remaining work is submission logistics.
 
