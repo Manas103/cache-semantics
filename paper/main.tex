@@ -48,8 +48,9 @@ prefixes on every turn. Providers document \emph{that} caching exists, but
 not precisely how invalidation is scoped: does a single edit anywhere in a
 prefix wipe the whole cache, or does partial credit survive, and at what
 granularity? We answer this directly, using each provider's own usage
-telemetry (\code{cache\_read\_input\_tokens}, \code{prompt\_tokens\_details.}
-\code{cached\_tokens}, and DeepSeek's \code{prompt\_cache\_hit\_tokens}) rather
+telemetry (\code{cache\_read\_input\_tokens},
+\code{prompt\_tokens\_details.\allowbreak cached\_tokens}, and DeepSeek's
+\code{prompt\_cache\_hit\_tokens}) rather
 than the timing side-channels used by prior work, and measure exactly how
 many tokens of a shared prefix survive a single controlled perturbation,
 across Anthropic, OpenAI, DeepSeek, and Gemini. We find four qualitatively
