@@ -49,7 +49,7 @@ Every script is stdlib-only Python (`urllib` for HTTP), one script per measureme
 `*_results.json` next to it. To rerun one:
 
 ```bash
-# needs the relevant provider key in a .env file two directories up (see CLAUDE.md)
+# needs the relevant provider API key in the environment (see CONTRIBUTING.md)
 python pilot/deepseek_full_sweep.py
 ```
 
@@ -68,6 +68,5 @@ cd paper && pdflatex -interaction=nonstopmode main.tex && pdflatex -interaction=
 
 ## Status
 
-Manuscript drafted and compiles clean (14 pages). Not yet submitted to arXiv (pending an
-endorsement — see `CLAUDE.md`). This is a solo research project; treat the code as measurement
-scripts for a specific study, not a maintained library.
+Manuscript complete (14 pages, `paper/main.pdf`); not yet on arXiv. This is a solo research project; treat the code as measurement
+scripts for a specific study, not a maintained library. See `CONTRIBUTING.md` to rerun or extend it.
