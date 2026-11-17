@@ -1,4 +1,4 @@
-# cache-semantics — how much of your prompt survives an edit?
+# cache-semantics: how much of your prompt survives an edit?
 
 A black-box measurement of **prompt-cache invalidation granularity** across four LLM API
 providers: Anthropic, OpenAI, DeepSeek, and Gemini.
@@ -19,7 +19,7 @@ than inferring caching behavior from response-timing side channels the way prior
 | Anthropic | Developer-controlled (`cache_control` block boundaries) | Deterministic by construction |
 | OpenAI | ~1,024-token chunks, content-anchored | Deterministic |
 | DeepSeek | 128-token chunks | Deterministic (bit-for-bit, even under an explicit "best-effort" docs hedge) |
-| Gemini | N/A | **Not** a stable function of request content — identical repeated requests return different credited-token counts |
+| Gemini | N/A | **Not** a stable function of request content: identical repeated requests return different credited-token counts |
 
 Full results, methodology, and four additional cross-cutting checks (a second structurally
 different prefix, OpenAI direct-API cross-validation, larger-model spot-checks, and a
